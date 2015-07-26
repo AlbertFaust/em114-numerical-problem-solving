@@ -1,6 +1,6 @@
 %Question1.m (https://github.com/AlbertFaust/em114-numerical-problem-solving/blob/master/Lab0/Question1.m) needs to be run first to set variables.
 
-run(Question1)
+run Question1
 
 a = sin(x);
 b = exp(-y);
