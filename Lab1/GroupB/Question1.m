@@ -7,7 +7,7 @@ delta_x = (x_upper-x_lower)/N ;
 
 for ct=1:N
   x(ct) = x_lower + (ct-0.5)*delta_x ;  
-  f1(ct) = sin(sqrt(x(ct)^3)+3);
+  f1(ct) = sin(sqrt(x(ct)^3+3));
   f2(ct) = 0;
 end
 
