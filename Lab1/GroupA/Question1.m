@@ -17,4 +17,4 @@ xlabel('x')
 title('f(x) = cos(sqrt(x^4+5)) and x-axis')
 axis([0 2*pi -2 2])
 
-fprintf('f(x) crosses x-axis 12 times\n');
+fprintf('f(x) crosses x-axis 11 times\n');
