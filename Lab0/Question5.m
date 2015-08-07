@@ -1,4 +1,4 @@
-clear all
+clear all;
 
 A(1,1) = 3;
 A(1,2) = 20;
