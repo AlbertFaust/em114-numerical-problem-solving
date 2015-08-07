@@ -1,4 +1,4 @@
-clear all
+clear all;
 
 a(1) = 5;
 a(2) = 10;
