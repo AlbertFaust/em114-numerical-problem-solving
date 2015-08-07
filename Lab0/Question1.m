@@ -1,4 +1,4 @@
-clear all
+clear all;
 
 x = 3;
 y = 2.5;
