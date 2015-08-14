@@ -5,4 +5,4 @@ B = [7;11]
 
 X = A\B;
 
-fprintf('a is %d\nb is %d\n', X);
+fprintf('a is %1.2f\nb is %1.2f\n', X);
